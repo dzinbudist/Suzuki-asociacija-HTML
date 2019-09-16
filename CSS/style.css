@@ -1,0 +1,32 @@
+	body {
+		background-color: aqua;
+	}
+
+	article {
+		background-color: red;
+		color: silver;
+	}
+
+	header {
+		background-color: green;
+	}
+
+	nav {
+		background-color: orange;
+	}
+
+	main {
+		background-color: blue;
+	}
+
+	.mainHeaderButtonsForm {
+		background-color: green;
+	}
+
+	input[name=edtMainHeaderSearch] {    
+	    width: 150px; 
+	}
+
+	.center {
+		text-align: center;
+	}
